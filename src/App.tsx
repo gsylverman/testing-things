@@ -4,7 +4,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       App
-      master
+      SECONDARY
     </div>
   );
 }
